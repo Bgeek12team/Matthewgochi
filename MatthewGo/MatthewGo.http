@@ -1,0 +1,11 @@
+@MatthewGo_HostAddress = http://localhost:5046
+
+GET {{MatthewGo_HostAddress}}/todos/
+Accept: application/json
+
+###
+
+GET {{MatthewGo_HostAddress}}/todos/1
+Accept: application/json
+
+###
