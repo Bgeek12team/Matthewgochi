@@ -8,4 +8,22 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="fon.png" />
+    <None Remove="fonTam.png" />
+    <None Remove="fonWS.png" />
+    <None Remove="friensMatwey.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Matthew\Matthew.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="fon.png" />
+    <Resource Include="fonTam.png" />
+    <Resource Include="fonWS.png" />
+    <Resource Include="friensMatwey.jpg" />
+  </ItemGroup>
+
 </Project>

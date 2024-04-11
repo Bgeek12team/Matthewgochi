@@ -171,9 +171,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Анна\\Source\\Repos\\Matthewgochi\\Matthew\\Matthew.csproj",
+      "projectUniqueName": "C:\\Users\\Анна\\source\\repos\\Matthewgochi\\Matthew\\Matthew.csproj",
       "projectName": "Matthew",
-      "projectPath": "C:\\Users\\Анна\\Source\\Repos\\Matthewgochi\\Matthew\\Matthew.csproj",
+      "projectPath": "C:\\Users\\Анна\\source\\repos\\Matthewgochi\\Matthew\\Matthew.csproj",
       "packagesPath": "C:\\Users\\Анна\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Анна\\Source\\Repos\\Matthewgochi\\Matthew\\obj\\",
       "projectStyle": "PackageReference",
@@ -192,8 +192,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Анна\\Source\\Repos\\Matthewgochi\\MatthewGo\\gigaMatthew\\gigaMatthew.csproj": {
-              "projectPath": "C:\\Users\\Анна\\Source\\Repos\\Matthewgochi\\MatthewGo\\gigaMatthew\\gigaMatthew.csproj"
+            "C:\\Users\\Анна\\source\\repos\\Matthewgochi\\MatthewGo\\gigaMatthew\\gigaMatthew.csproj": {
+              "projectPath": "C:\\Users\\Анна\\source\\repos\\Matthewgochi\\MatthewGo\\gigaMatthew\\gigaMatthew.csproj"
             }
           }
         }

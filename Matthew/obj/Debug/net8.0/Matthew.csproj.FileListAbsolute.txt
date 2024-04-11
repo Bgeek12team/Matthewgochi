@@ -1,0 +1,16 @@
+C:\Users\Анна\source\repos\Matthewgochi\Matthew\bin\Debug\net8.0\Matthew.deps.json
+C:\Users\Анна\source\repos\Matthewgochi\Matthew\bin\Debug\net8.0\Matthew.dll
+C:\Users\Анна\source\repos\Matthewgochi\Matthew\bin\Debug\net8.0\Matthew.pdb
+C:\Users\Анна\source\repos\Matthewgochi\Matthew\bin\Debug\net8.0\gigaMatthew.dll
+C:\Users\Анна\source\repos\Matthewgochi\Matthew\bin\Debug\net8.0\gigaMatthew.pdb
+C:\Users\Анна\source\repos\Matthewgochi\Matthew\obj\Debug\net8.0\Matthew.csproj.AssemblyReference.cache
+C:\Users\Анна\source\repos\Matthewgochi\Matthew\obj\Debug\net8.0\Matthew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анна\source\repos\Matthewgochi\Matthew\obj\Debug\net8.0\Matthew.AssemblyInfoInputs.cache
+C:\Users\Анна\source\repos\Matthewgochi\Matthew\obj\Debug\net8.0\Matthew.AssemblyInfo.cs
+C:\Users\Анна\source\repos\Matthewgochi\Matthew\obj\Debug\net8.0\Matthew.csproj.CoreCompileInputs.cache
+C:\Users\Анна\source\repos\Matthewgochi\Matthew\obj\Debug\net8.0\Matthew.sourcelink.json
+C:\Users\Анна\source\repos\Matthewgochi\Matthew\obj\Debug\net8.0\Matthew.csproj.CopyComplete
+C:\Users\Анна\source\repos\Matthewgochi\Matthew\obj\Debug\net8.0\Matthew.dll
+C:\Users\Анна\source\repos\Matthewgochi\Matthew\obj\Debug\net8.0\refint\Matthew.dll
+C:\Users\Анна\source\repos\Matthewgochi\Matthew\obj\Debug\net8.0\Matthew.pdb
+C:\Users\Анна\source\repos\Matthewgochi\Matthew\obj\Debug\net8.0\ref\Matthew.dll

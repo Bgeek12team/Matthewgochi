@@ -11,12 +11,8 @@ public class PlayCommand : Command
     }
     public override string Execute()
     {
-        if (double.TryParse(Query, out var amount))
-        {
-            receiver.WasteEnergy(amount);
-            return Adapter.execute(Query).ToString();
-        }
-        return "Incorrect Command";
+        return Adapter.execute(Query).ToString();
+        
     }
 
 }

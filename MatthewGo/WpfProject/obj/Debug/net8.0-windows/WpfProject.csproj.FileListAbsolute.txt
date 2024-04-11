@@ -19,3 +19,10 @@ C:\Users\Анна\Source\Repos\Matthewgochi\MatthewGo\WpfProject\obj\Debug\net8.
 C:\Users\Анна\Source\Repos\Matthewgochi\MatthewGo\WpfProject\obj\Debug\net8.0-windows\WpfProject.pdb
 C:\Users\Анна\Source\Repos\Matthewgochi\MatthewGo\WpfProject\obj\Debug\net8.0-windows\WpfProject.genruntimeconfig.cache
 C:\Users\Анна\Source\Repos\Matthewgochi\MatthewGo\WpfProject\obj\Debug\net8.0-windows\ref\WpfProject.dll
+C:\Users\Анна\source\repos\Matthewgochi\MatthewGo\WpfProject\bin\Debug\net8.0-windows\GigaChatAdapter.dll
+C:\Users\Анна\source\repos\Matthewgochi\MatthewGo\WpfProject\bin\Debug\net8.0-windows\gigaMatthew.dll
+C:\Users\Анна\source\repos\Matthewgochi\MatthewGo\WpfProject\bin\Debug\net8.0-windows\gigaMatthew.pdb
+C:\Users\Анна\source\repos\Matthewgochi\MatthewGo\WpfProject\obj\Debug\net8.0-windows\WpfProject.csproj.AssemblyReference.cache
+C:\Users\Анна\source\repos\Matthewgochi\MatthewGo\WpfProject\obj\Debug\net8.0-windows\WpfProject.csproj.CopyComplete
+C:\Users\Анна\source\repos\Matthewgochi\MatthewGo\WpfProject\bin\Debug\net8.0-windows\Matthew.dll
+C:\Users\Анна\source\repos\Matthewgochi\MatthewGo\WpfProject\bin\Debug\net8.0-windows\Matthew.pdb

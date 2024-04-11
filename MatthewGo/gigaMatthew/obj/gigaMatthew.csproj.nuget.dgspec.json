@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Анна\\Source\\Repos\\Matthewgochi\\MatthewGo\\gigaMatthew\\gigaMatthew.csproj": {}
+    "C:\\Users\\Анна\\source\\repos\\Matthewgochi\\MatthewGo\\gigaMatthew\\gigaMatthew.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Анна\\Source\\Repos\\Matthewgochi\\MatthewGo\\gigaMatthew\\gigaMatthew.csproj": {
+    "C:\\Users\\Анна\\source\\repos\\Matthewgochi\\MatthewGo\\gigaMatthew\\gigaMatthew.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Анна\\Source\\Repos\\Matthewgochi\\MatthewGo\\gigaMatthew\\gigaMatthew.csproj",
+        "projectUniqueName": "C:\\Users\\Анна\\source\\repos\\Matthewgochi\\MatthewGo\\gigaMatthew\\gigaMatthew.csproj",
         "projectName": "gigaMatthew",
-        "projectPath": "C:\\Users\\Анна\\Source\\Repos\\Matthewgochi\\MatthewGo\\gigaMatthew\\gigaMatthew.csproj",
+        "projectPath": "C:\\Users\\Анна\\source\\repos\\Matthewgochi\\MatthewGo\\gigaMatthew\\gigaMatthew.csproj",
         "packagesPath": "C:\\Users\\Анна\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Анна\\Source\\Repos\\Matthewgochi\\MatthewGo\\gigaMatthew\\obj\\",
+        "outputPath": "C:\\Users\\Анна\\source\\repos\\Matthewgochi\\MatthewGo\\gigaMatthew\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Анна\\AppData\\Roaming\\NuGet\\NuGet.Config",

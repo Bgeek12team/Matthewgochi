@@ -30,7 +30,7 @@ namespace gigaMatthew
 
                     if (result.RequestSuccessed)
                     {
-                        return string.Join(' ', result.GigaChatCompletionResponse.Choices);
+                        return string.Join(' ', result.GigaChatCompletionResponse.Choices.Select(c => c.Message));
                     }
                     else
                     {
