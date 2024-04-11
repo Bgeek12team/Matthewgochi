@@ -6,4 +6,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="GigaChatAdapter" Version="1.0.7" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MatthewGo\gigaMatthew\gigaMatthew.csproj" />
+  </ItemGroup>
+
 </Project>

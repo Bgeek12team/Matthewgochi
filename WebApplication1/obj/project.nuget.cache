@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "qIHqctC3g2o8UqDSCfLHb5VvNcQR2X52xGBqdolYSM4dVUkFF7M0OG6Xpgj4VsZWi2HWsDy6SZM4SR2y3ekmfw==",
+  "dgSpecHash": "lyen6/TU5b5+IjWmKw+Qedt7oa1i9yC5NWaLd2MWqKUV6NDoT3Rnd0xfPC9Hj2Mza88BkUA4ptGNg3qOM9SQhw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Алексей\\source\\repos\\Matthewgochi\\WebApplication1\\WebApplication1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Анна\\Source\\Repos\\Matthewgochi\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Анна\\.nuget\\packages\\gigachatadapter\\1.0.7\\gigachatadapter.1.0.7.nupkg.sha512",
+    "C:\\Users\\Анна\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Анна\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

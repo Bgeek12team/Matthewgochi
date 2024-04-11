@@ -1,4 +1,6 @@
-﻿namespace Matthew;
+﻿using gigaMatthew;
+
+namespace Matthew;
 
 public class PlayCommand : Command
 {
@@ -11,8 +13,8 @@ public class PlayCommand : Command
     {
         if (double.TryParse(Query, out var amount))
         {
-            receiver.Feed(amount);
-            return "Success! Mathew dovolen";
+            receiver.WasteEnergy(amount);
+            return Adapter.execute(Query).ToString();
         }
         return "Incorrect Command";
     }

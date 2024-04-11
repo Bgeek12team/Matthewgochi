@@ -1,6 +1,6 @@
 ﻿namespace Matthew;
 
-public class MatthewModel
+public class Client
 {
     Matthew matthew = new Matthew();
     Invoker invoker = new Invoker();    
