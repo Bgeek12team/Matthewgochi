@@ -7,16 +7,16 @@ public class Client
     MatthewHistory history = new MatthewHistory();
 
 
-    public string Feed(string amount)
+    public async Task<string> Feed(string amount)
     {
         var command = new FeedCommand(matthew, amount);
-        return Exec(command);
+        return await Exec(command);
     }
 
-    public string Play(string query)
+    public async Task<string> Play(string query)
     {
         var command = new PlayCommand(matthew, query);
-        return Exec(command);
+        return await Exec(command);
     }
  
     public void Undo()
@@ -25,10 +25,10 @@ public class Client
     }
 
 
-    string Exec(Command command)
+    async Task<string> Exec(Command command)
     {
         history.History.Push(matthew.GetState());
         invoker.SetCommand(command);
-        return invoker.Run();
+        return await invoker.Run();
     }
 }

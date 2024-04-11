@@ -8,8 +8,8 @@ public class Invoker
     {
         command = c;
     }
-    public string Run()
+    public async Task<string> Run()
     {
-        return command.Execute();
+        return await command.Execute(); 
     }
 }

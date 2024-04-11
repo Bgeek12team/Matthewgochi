@@ -5,19 +5,29 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfProject"
         mc:Ignorable="d"
-        Title="MainWindow" Height="800" Width="800">
+        Title="MainWindow" Height="800" Width="850">
+
     <Grid Margin="0,0,0,-50">
+
+
         <Button x:Name="buttonSendQuestion" Content="Задать вопрос" HorizontalAlignment="Left" Margin="164,724,0,0" VerticalAlignment="Top" Height="55" Width="144" Click="sendQuestion"/>
         <Button x:Name="buttonFeed" Content="Покормить" HorizontalAlignment="Left" Margin="313,724,0,0" VerticalAlignment="Top" Height="55" Width="148"/>
-        <Image HorizontalAlignment="Center" Height="495" Margin="0,107,0,0" VerticalAlignment="Top" Width="516" Source="/fonWS.png"/>
-        <Image x:Name="friendsMatthew" HorizontalAlignment="Center" Height="200" Margin="0,403,0,0" VerticalAlignment="Top" Width="200" Source="/friensMatwey.jpg" RenderTransformOrigin="0.5,0.519">
+        <Image HorizontalAlignment="Left" Height="495" Margin="29,105,0,0" VerticalAlignment="Top" Width="516" Source="/fonWS.png"/>
+        <Image x:Name="friendsMatthew" HorizontalAlignment="Left" Height="200" Margin="187,419,0,0" VerticalAlignment="Top" Width="200" Source="/friensMatwey.jpg" RenderTransformOrigin="0.5,0.519">
             <Image.RenderTransform>
                 <TranslateTransform x:Name="translateTransform"/>
             </Image.RenderTransform>
         </Image>
-        <Image HorizontalAlignment="Left" Height="582" Margin="12,21,0,0" VerticalAlignment="Top" Width="780" InputScope="Srgs" Source="/fonTam.png"/>
+        <Image HorizontalAlignment="Left" Height="582" Margin="-101,2,0,0" VerticalAlignment="Top" Width="780" InputScope="Srgs" Source="/fonTam.png"/>
         <Button x:Name="buttonShowMatthew" Content="Призвать" HorizontalAlignment="Left" Height="55" Margin="12,724,0,0" VerticalAlignment="Top" Width="145" Click="showMatthew"/>
         <TextBox x:Name="txBxSendQuestion" HorizontalAlignment="Center" Margin="0,677,0,0" TextWrapping="Wrap" Text="Введите вопрос" VerticalAlignment="Top" Width="776" Height="42" FontFamily="Arial Black" FontSize="36" TextChanged="TextBox_TextChanged" GotFocus="deleteText"/>
+        <RichTextBox x:Name="ans" Margin="545,25,37,195">
+            <FlowDocument>
+                <Paragraph>
+                    <Run Text=""/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
 
 
 

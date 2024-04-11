@@ -2,18 +2,15 @@
 
 namespace gigaMatthew
 {
-    public static class Adapter
+    public class Adapter
     {
-        private static string authData = "MWYyYjhjMmUtNjJmYi00MTY5LWI2NmUtOTJhM2YyNDAwOTkwOjQ4YTVkZDJjLTBiM2EtNDBiZi1hYjk5LTg0MjcxNzQ5NTg1Yg==";
-        private static Authorization auth;
+        private string authData = "MDc3OTcyMzYtZjAxNS00NDBiLTkxMzUtZTk2NWE4NDQ5MDI3OjRjN2EzZTljLWExZWMtNDA2ZC05YTUxLTdjYzMzZjUxMzU2Zg==";
+        private Authorization auth;
 
-        static Adapter()
+
+        public async Task<string> Execute(string prompt)
         {
             auth = new Authorization(authData, GigaChatAdapter.Auth.RateScope.GIGACHAT_API_PERS);
-        }
-
-        public async static Task<string> execute(string prompt)
-        {
             var authResult = await auth.SendRequest();
 
             if (authResult.AuthorizationSuccess)
@@ -30,7 +27,7 @@ namespace gigaMatthew
 
                     if (result.RequestSuccessed)
                     {
-                        return string.Join(' ', result.GigaChatCompletionResponse.Choices.Select(c => c.Message));
+                        return result.GigaChatCompletionResponse.Choices.LastOrDefault().Message.Content;
                     }
                     else
                     {

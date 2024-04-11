@@ -5,13 +5,15 @@ namespace Matthew;
 public class PlayCommand : Command
 {
     Matthew receiver;
+    static Adapter adapter = new Adapter();
+    
     public PlayCommand(Matthew r, string query) : base(query)
     {
         receiver = r;
     }
-    public override string Execute()
+    public override async Task<string> Execute()
     {
-        return Adapter.execute(Query).ToString();
+        return await adapter.Execute(Query);
         
     }
 

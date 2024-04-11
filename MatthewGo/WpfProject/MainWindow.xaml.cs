@@ -1,4 +1,5 @@
-﻿using System.Text;
+﻿using System.Globalization;
+using System.Text;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -12,6 +13,34 @@ using System.Windows.Shapes;
 using Matthew;
 namespace WpfProject
 {
+    public class TextFormatterConverter : IValueConverter
+    {
+        public object Convert(object value, Type targetType, object parameter, CultureInfo culture)
+        {
+            string input = value as string;
+            if (string.IsNullOrEmpty(input))
+                return null;
+
+            // Разбиваем строку на слова
+            string[] words = input.Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
+            var textBlock = new TextBlock { TextWrapping = TextWrapping.Wrap };
+
+            // Форматируем каждое слово
+            foreach (var word in words)
+            {
+                var run = new Run(word + " ");
+                run.Foreground = new SolidColorBrush(Colors.Blue); // Пример форматирования
+                textBlock.Inlines.Add(run);
+            }
+
+            return new InlineUIContainer(textBlock);
+        }
+
+        public object ConvertBack(object value, Type targetType, object parameter, CultureInfo culture)
+        {
+            throw new NotImplementedException();
+        }
+    }
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
@@ -39,7 +68,7 @@ namespace WpfProject
         private void showMatthew(object sender, RoutedEventArgs e)
         {
             int to = matthewIsLive ? 30 : -150;
-            DoubleAnimation animation = new DoubleAnimation
+            var animation = new DoubleAnimation
             {
                 To = to, // Задайте значение, до которого должно перемещаться изображение
                 Duration = TimeSpan.FromSeconds(1), // Продолжительность анимации
@@ -64,10 +93,15 @@ namespace WpfProject
             }
             matthewIsLive = !matthewIsLive;
         }
-        private void sendQuestion(object sender, RoutedEventArgs e)
+        private async void sendQuestion(object sender, RoutedEventArgs e)
         {
-            string answer = txBxSendQuestion.Text != String.Empty ? matthew.Play(txBxSendQuestion.Text) : "Error";
-            MessageBox.Show(answer);
+            if (txBxSendQuestion.Text != string.Empty)
+            {
+                this.ans.AppendText("You: " + txBxSendQuestion.Text + "\r\n");
+                var ans = await matthew.Play(txBxSendQuestion.Text);
+                this.ans.AppendText("He: " + ans + "\r\n");
+                this.ans.AppendText("_______________________________________");
+            }
         }
 
         private void TextBox_TextChanged(object sender, TextChangedEventArgs e)

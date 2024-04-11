@@ -7,5 +7,5 @@ public abstract class Command
     {
         Query = query;
     }
-    public abstract string Execute();
+    public virtual async Task<string> Execute() { return default; }
 }

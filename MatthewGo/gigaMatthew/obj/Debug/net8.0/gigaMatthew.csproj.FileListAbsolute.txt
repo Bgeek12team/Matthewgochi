@@ -11,3 +11,16 @@ C:\Users\Анна\source\repos\Matthewgochi\MatthewGo\gigaMatthew\obj\Debug\net8
 C:\Users\Анна\source\repos\Matthewgochi\MatthewGo\gigaMatthew\obj\Debug\net8.0\refint\gigaMatthew.dll
 C:\Users\Анна\source\repos\Matthewgochi\MatthewGo\gigaMatthew\obj\Debug\net8.0\gigaMatthew.pdb
 C:\Users\Анна\source\repos\Matthewgochi\MatthewGo\gigaMatthew\obj\Debug\net8.0\ref\gigaMatthew.dll
+C:\Users\Алексей\source\repos\Matthewgochi\MatthewGo\gigaMatthew\bin\Debug\net8.0\gigaMatthew.deps.json
+C:\Users\Алексей\source\repos\Matthewgochi\MatthewGo\gigaMatthew\bin\Debug\net8.0\gigaMatthew.dll
+C:\Users\Алексей\source\repos\Matthewgochi\MatthewGo\gigaMatthew\bin\Debug\net8.0\gigaMatthew.pdb
+C:\Users\Алексей\source\repos\Matthewgochi\MatthewGo\gigaMatthew\obj\Debug\net8.0\gigaMatthew.csproj.AssemblyReference.cache
+C:\Users\Алексей\source\repos\Matthewgochi\MatthewGo\gigaMatthew\obj\Debug\net8.0\gigaMatthew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\source\repos\Matthewgochi\MatthewGo\gigaMatthew\obj\Debug\net8.0\gigaMatthew.AssemblyInfoInputs.cache
+C:\Users\Алексей\source\repos\Matthewgochi\MatthewGo\gigaMatthew\obj\Debug\net8.0\gigaMatthew.AssemblyInfo.cs
+C:\Users\Алексей\source\repos\Matthewgochi\MatthewGo\gigaMatthew\obj\Debug\net8.0\gigaMatthew.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\source\repos\Matthewgochi\MatthewGo\gigaMatthew\obj\Debug\net8.0\gigaMatthew.sourcelink.json
+C:\Users\Алексей\source\repos\Matthewgochi\MatthewGo\gigaMatthew\obj\Debug\net8.0\gigaMatthew.dll
+C:\Users\Алексей\source\repos\Matthewgochi\MatthewGo\gigaMatthew\obj\Debug\net8.0\refint\gigaMatthew.dll
+C:\Users\Алексей\source\repos\Matthewgochi\MatthewGo\gigaMatthew\obj\Debug\net8.0\gigaMatthew.pdb
+C:\Users\Алексей\source\repos\Matthewgochi\MatthewGo\gigaMatthew\obj\Debug\net8.0\ref\gigaMatthew.dll

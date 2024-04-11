@@ -8,7 +8,7 @@ public class FeedCommand : Command
     {
         receiver = r;
     }
-    public override string Execute()
+    public override async Task<string> Execute()
     {
         if (double.TryParse(Query, out var amount))
         {
