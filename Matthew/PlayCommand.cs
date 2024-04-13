@@ -13,6 +13,7 @@ public class PlayCommand : Command
     }
     public override async Task<string> Execute()
     {
+        receiver.WasteEnergy(Query.Length);
         return await adapter.Execute(Query);
         
     }

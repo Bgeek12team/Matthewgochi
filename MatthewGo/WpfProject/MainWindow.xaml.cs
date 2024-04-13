@@ -48,6 +48,9 @@ namespace WpfProject
     {
         private bool matthewIsLive;
         private Client matthew;
+        private Client artem;
+        private int energy;
+        private event EventHandler updEnrg;
 
         public MainWindow()
         {
@@ -57,6 +60,7 @@ namespace WpfProject
             buttonFeed.Visibility = Visibility.Hidden;
             txBxSendQuestion.Visibility = Visibility.Hidden;
             matthewIsLive = false;
+            
             matthew = new Client();
         }
 
@@ -80,7 +84,10 @@ namespace WpfProject
                 buttonFeed.Visibility = Visibility.Visible;
                 buttonSendQuestion.Visibility = Visibility.Visible;
                 txBxSendQuestion.Visibility = Visibility.Visible;
-                buttonShowMatthew.Content = "Обратно на парашу";
+                energy = 0;
+                labelEnergy.Visibility = Visibility.Visible;
+                updateEnergy(100);
+                buttonShowMatthew.Content = "Прекратить общение";
             } 
             else 
             { 
@@ -95,12 +102,17 @@ namespace WpfProject
         }
         private async void sendQuestion(object sender, RoutedEventArgs e)
         {
-            if (txBxSendQuestion.Text != string.Empty)
+            if (txBxSendQuestion.Text != string.Empty && energy > txBxSendQuestion.Text.Length)
             {
                 this.ans.AppendText("You: " + txBxSendQuestion.Text + "\r\n");
                 var ans = await matthew.Play(txBxSendQuestion.Text);
                 this.ans.AppendText("He: " + ans + "\r\n");
                 this.ans.AppendText("_______________________________________");
+                updateEnergy(-txBxSendQuestion.Text.Length);
+            }
+            else
+            {
+                MessageBox.Show("Матвею не хватит насыщения для ответа.");
             }
         }
 
@@ -108,7 +120,14 @@ namespace WpfProject
         {
 
         }
-
+        
         private void deleteText(object sender, RoutedEventArgs e) => txBxSendQuestion.Text = string.Empty;
+        private void updateEnergy(int amount) { energy += amount; labelEnergy.Content = $"Насыщение: {Convert.ToString(energy)}"; matthew.Feed(amount.ToString()); }
+
+        private void buttonFeed_Click(object sender, RoutedEventArgs e)
+        {
+            updateEnergy(4);
+            matthew.Feed("4");
+        }
     }
 }
