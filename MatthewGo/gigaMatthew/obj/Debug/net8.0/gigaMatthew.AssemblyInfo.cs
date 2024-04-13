@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("gigaMatthew")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ce971f59d4901f4b989f15e299aa1240d74857b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82a882b3a1cc5db25fad1d0a09b0cc85724072c4")]
 [assembly: System.Reflection.AssemblyProductAttribute("gigaMatthew")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gigaMatthew")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
