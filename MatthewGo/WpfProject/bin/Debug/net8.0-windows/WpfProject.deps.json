@@ -8,7 +8,7 @@
     ".NETCoreApp,Version=v8.0": {
       "WpfProject/1.0.0": {
         "dependencies": {
-          "Matthew": "1.0.0"
+          "MatthewV2": "1.0.0"
         },
         "runtime": {
           "WpfProject.dll": {}
@@ -39,13 +39,12 @@
           "gigaMatthew.dll": {}
         }
       },
-      "Matthew/1.0.0": {
+      "MatthewV2/1.0.0": {
         "dependencies": {
-          "GigaChatAdapter": "1.0.7",
           "gigaMatthew": "1.0.0"
         },
         "runtime": {
-          "Matthew.dll": {}
+          "MatthewV2.dll": {}
         }
       }
     }
@@ -82,7 +81,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Matthew/1.0.0": {
+    "MatthewV2/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

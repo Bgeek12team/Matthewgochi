@@ -10,7 +10,8 @@ using System.Windows.Media.Animation;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-using Matthew;
+using System.Drawing;
+using MatthewV2;
 namespace WpfProject
 {
     public class TextFormatterConverter : IValueConverter
@@ -48,9 +49,7 @@ namespace WpfProject
     {
         private bool matthewIsLive;
         private Client matthew;
-        private Client artem;
-        private int energy;
-        private event EventHandler updEnrg;
+        private DoubleAnimation animation;
 
         public MainWindow()
         {
@@ -60,8 +59,26 @@ namespace WpfProject
             buttonFeed.Visibility = Visibility.Hidden;
             txBxSendQuestion.Visibility = Visibility.Hidden;
             matthewIsLive = false;
-            
+
             matthew = new Client();
+            matthew.TurnedEvil += Matthew_TurnedEvil;
+            matthew.TurnedKind += Matthew_TurnedKind;
+            
+            
+        }
+
+        private void Matthew_TurnedKind(object? sender, EventArgs e)
+        {
+            friendsMatthew.Visibility = Visibility.Visible;
+            angryArtem.Visibility = Visibility.Hidden;
+            translateTransform.BeginAnimation(TranslateTransform.YProperty, animation);
+        }
+
+        private void Matthew_TurnedEvil(object? sender, EventArgs e)
+        {
+            friendsMatthew.Visibility = Visibility.Hidden;
+            angryArtem.Visibility = Visibility.Visible;
+            translateTransform2.BeginAnimation(TranslateTransform.YProperty, animation);
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
@@ -72,7 +89,7 @@ namespace WpfProject
         private void showMatthew(object sender, RoutedEventArgs e)
         {
             int to = matthewIsLive ? 30 : -150;
-            var animation = new DoubleAnimation
+            animation = new DoubleAnimation
             {
                 To = to, // Задайте значение, до которого должно перемещаться изображение
                 Duration = TimeSpan.FromSeconds(1), // Продолжительность анимации
@@ -84,9 +101,6 @@ namespace WpfProject
                 buttonFeed.Visibility = Visibility.Visible;
                 buttonSendQuestion.Visibility = Visibility.Visible;
                 txBxSendQuestion.Visibility = Visibility.Visible;
-                energy = 0;
-                labelEnergy.Visibility = Visibility.Visible;
-                updateEnergy(100);
                 buttonShowMatthew.Content = "Прекратить общение";
             } 
             else 
@@ -102,18 +116,10 @@ namespace WpfProject
         }
         private async void sendQuestion(object sender, RoutedEventArgs e)
         {
-            if (txBxSendQuestion.Text != string.Empty && energy > txBxSendQuestion.Text.Length)
-            {
-                this.ans.AppendText("You: " + txBxSendQuestion.Text + "\r\n");
-                var ans = await matthew.Play(txBxSendQuestion.Text);
-                this.ans.AppendText("He: " + ans + "\r\n");
-                this.ans.AppendText("_______________________________________");
-                updateEnergy(-txBxSendQuestion.Text.Length);
-            }
-            else
-            {
-                MessageBox.Show("Матвею не хватит насыщения для ответа.");
-            }
+            this.ans.AppendText("You: " + txBxSendQuestion.Text + "\r\n");
+            var ans = await matthew.Ask(txBxSendQuestion.Text, txBxSendQuestion.Text.Length);
+            this.ans.AppendText("He: " + ans + "\r\n");
+            this.ans.AppendText("_______________________________________");
         }
 
         private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
@@ -122,12 +128,11 @@ namespace WpfProject
         }
         
         private void deleteText(object sender, RoutedEventArgs e) => txBxSendQuestion.Text = string.Empty;
-        private void updateEnergy(int amount) { energy += amount; labelEnergy.Content = $"Насыщение: {Convert.ToString(energy)}"; matthew.Feed(amount.ToString()); }
+        
 
         private void buttonFeed_Click(object sender, RoutedEventArgs e)
         {
-            updateEnergy(4);
-            matthew.Feed("4");
+            matthew.Feed(10);
         }
     }
 }

@@ -13,9 +13,14 @@
         <Button x:Name="buttonSendQuestion" Content="Задать вопрос" HorizontalAlignment="Left" Margin="164,724,0,0" VerticalAlignment="Top" Height="55" Width="144" Click="sendQuestion"/>
         <Button x:Name="buttonFeed" Content="Покормить" HorizontalAlignment="Left" Margin="313,724,0,0" VerticalAlignment="Top" Height="55" Width="148" Click="buttonFeed_Click"/>
         <Image HorizontalAlignment="Left" Height="495" Margin="29,105,0,0" VerticalAlignment="Top" Width="516" Source="/fonWS.png"/>
-        <Image x:Name="friendsMatthew" HorizontalAlignment="Left" Height="200" Margin="187,392,0,0" VerticalAlignment="Top" Width="200" Source="/friensMatwey.jpg" RenderTransformOrigin="0.5,0.519">
+        <Image x:Name="friendsMatthew" HorizontalAlignment="Left" Height="200" Margin="187,392,0,0" VerticalAlignment="Top" Width="200" Source="/friensMatwey.png" RenderTransformOrigin="0.5,0.519">
             <Image.RenderTransform>
                 <TranslateTransform x:Name="translateTransform"/>
+            </Image.RenderTransform>
+        </Image>
+        <Image x:Name="angryArtem" HorizontalAlignment="Left" Height="200" Margin="187,392,0,0" VerticalAlignment="Top" Width="200" Source="/angryArtem.png" RenderTransformOrigin="0.5,0.519" Visibility="Hidden">
+            <Image.RenderTransform>
+                <TranslateTransform x:Name="translateTransform2"/>
             </Image.RenderTransform>
         </Image>
         <Image HorizontalAlignment="Left" Height="582" Margin="-101,10,0,0" VerticalAlignment="Top" Width="784" InputScope="Srgs" Source="/fonTam.png"/>
@@ -28,7 +33,7 @@
                 </Paragraph>
             </FlowDocument>
         </RichTextBox>
-        <Label x:Name="labelEnergy" Content="Насыщение:" HorizontalAlignment="Left" Height="29" Margin="10,10,0,0" VerticalAlignment="Top" Width="169" FontFamily="Arial Black" FontSize="16" Visibility="Hidden"/>
+        
 
 
 

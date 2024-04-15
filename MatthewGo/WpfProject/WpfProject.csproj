@@ -9,21 +9,25 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="angryArtem.png" />
     <None Remove="fon.png" />
     <None Remove="fonTam.png" />
     <None Remove="fonWS.png" />
     <None Remove="friensMatwey.jpg" />
+    <None Remove="friensMatwey.png" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Matthew\Matthew.csproj" />
+    <ProjectReference Include="..\MatthewV2\MatthewV2.csproj" />
   </ItemGroup>
 
   <ItemGroup>
+    <Resource Include="angryArtem.png" />
     <Resource Include="fon.png" />
     <Resource Include="fonTam.png" />
     <Resource Include="fonWS.png" />
     <Resource Include="friensMatwey.jpg" />
+    <Resource Include="friensMatwey.png" />
   </ItemGroup>
 
 </Project>

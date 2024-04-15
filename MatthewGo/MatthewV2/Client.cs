@@ -5,6 +5,8 @@ public class Client
 {
     private Matthew _matthew;
     private Invoker _invoker;
+    public event EventHandler TurnedEvil;
+    public event EventHandler TurnedKind;
 
     public Client() { _matthew = new(); _invoker = new(); }
     public void Feed(int amount) => _matthew.Feed(amount);
@@ -14,10 +16,12 @@ public class Client
         _matthew.Move(askCost);
         if (_matthew.SoulState < 0)
         {
+            TurnedEvil?.Invoke(this, new EventArgs());
             _invoker.Command = new TurnEvil(_matthew);
         }
         else
         {
+            TurnedKind?.Invoke(this, new EventArgs());
             _invoker.Command = new TurnKind(_matthew);
         }
 
