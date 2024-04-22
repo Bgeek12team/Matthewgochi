@@ -3,15 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matthew", "..\Matthew\Matthew.csproj", "{91DBB4C4-7E33-405D-ACB5-C989E8554666}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "gigaMatthew", "gigaMatthew\gigaMatthew.csproj", "{67809675-BBDF-4772-9A38-D1EB12A76035}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfProject", "WpfProject\WpfProject.csproj", "{3E3ED244-DD1E-4030-AEF7-BA77800E1572}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test", "Test\Test.csproj", "{1EA057E8-6AA4-4BFB-AC78-E7BA8E99EB05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatthewV2", "MatthewV2\MatthewV2.csproj", "{339F43E0-F6AF-4F4B-A878-29A948937CB9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MatthewV2", "MatthewV2\MatthewV2.csproj", "{339F43E0-F6AF-4F4B-A878-29A948937CB9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,10 +17,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{91DBB4C4-7E33-405D-ACB5-C989E8554666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{91DBB4C4-7E33-405D-ACB5-C989E8554666}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{91DBB4C4-7E33-405D-ACB5-C989E8554666}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{91DBB4C4-7E33-405D-ACB5-C989E8554666}.Release|Any CPU.Build.0 = Release|Any CPU
 		{67809675-BBDF-4772-9A38-D1EB12A76035}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{67809675-BBDF-4772-9A38-D1EB12A76035}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67809675-BBDF-4772-9A38-D1EB12A76035}.Release|Any CPU.ActiveCfg = Release|Any CPU

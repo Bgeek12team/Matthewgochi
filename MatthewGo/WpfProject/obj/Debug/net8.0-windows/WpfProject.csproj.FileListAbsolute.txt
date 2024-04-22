@@ -33,8 +33,6 @@ C:\Users\Алексей\source\repos\Matthewgochi\MatthewGo\WpfProject\bin\Debug
 C:\Users\Алексей\source\repos\Matthewgochi\MatthewGo\WpfProject\bin\Debug\net8.0-windows\WpfProject.pdb
 C:\Users\Алексей\source\repos\Matthewgochi\MatthewGo\WpfProject\bin\Debug\net8.0-windows\GigaChatAdapter.dll
 C:\Users\Алексей\source\repos\Matthewgochi\MatthewGo\WpfProject\bin\Debug\net8.0-windows\gigaMatthew.dll
-C:\Users\Алексей\source\repos\Matthewgochi\MatthewGo\WpfProject\bin\Debug\net8.0-windows\Matthew.dll
-C:\Users\Алексей\source\repos\Matthewgochi\MatthewGo\WpfProject\bin\Debug\net8.0-windows\Matthew.pdb
 C:\Users\Алексей\source\repos\Matthewgochi\MatthewGo\WpfProject\bin\Debug\net8.0-windows\gigaMatthew.pdb
 C:\Users\Алексей\source\repos\Matthewgochi\MatthewGo\WpfProject\obj\Debug\net8.0-windows\WpfProject.csproj.AssemblyReference.cache
 C:\Users\Алексей\source\repos\Matthewgochi\MatthewGo\WpfProject\obj\Debug\net8.0-windows\MainWindow.g.cs
@@ -82,3 +80,5 @@ C:\Users\Анна\Source\Repos\Matthewgochi2\MatthewGo\WpfProject\obj\Debug\net8
 C:\Users\Анна\Source\Repos\Matthewgochi2\MatthewGo\WpfProject\obj\Debug\net8.0-windows\ref\WpfProject.dll
 C:\Users\Анна\source\repos\Matthewgochi2\MatthewGo\WpfProject\bin\Debug\net8.0-windows\MatthewV2.dll
 C:\Users\Анна\source\repos\Matthewgochi2\MatthewGo\WpfProject\bin\Debug\net8.0-windows\MatthewV2.pdb
+C:\Users\Алексей\source\repos\Matthewgochi\MatthewGo\WpfProject\bin\Debug\net8.0-windows\MatthewV2.dll
+C:\Users\Алексей\source\repos\Matthewgochi\MatthewGo\WpfProject\bin\Debug\net8.0-windows\MatthewV2.pdb

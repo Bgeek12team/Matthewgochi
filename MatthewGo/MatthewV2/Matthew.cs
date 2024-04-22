@@ -14,6 +14,7 @@ public class Matthew
 
     public void Move(int  amount) => SoulState -= amount;
 
-    public async Task<string> Ask(string question) => await Neuro.GetAnswer(question);
+    public async Task<string> Ask(string question) 
+        => await Neuro.GetAnswer(question);
 
 }

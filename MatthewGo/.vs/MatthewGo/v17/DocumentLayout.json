@@ -3,38 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\Matthewgochi\\MatthewGo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{339F43E0-F6AF-4F4B-A878-29A948937CB9}|MatthewV2\\MatthewV2.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\matthewgochi\\matthewgo\\matthewv2\\evilmatthew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{339F43E0-F6AF-4F4B-A878-29A948937CB9}|MatthewV2\\MatthewV2.csproj|solutionrelative:matthewv2\\evilmatthew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{339F43E0-F6AF-4F4B-A878-29A948937CB9}|MatthewV2\\MatthewV2.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\matthewgochi\\matthewgo\\matthewv2\\kindmatthew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{339F43E0-F6AF-4F4B-A878-29A948937CB9}|MatthewV2\\MatthewV2.csproj|solutionrelative:matthewv2\\kindmatthew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67809675-BBDF-4772-9A38-D1EB12A76035}|gigaMatthew\\gigaMatthew.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\matthewgochi\\matthewgo\\gigamatthew\\adapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67809675-BBDF-4772-9A38-D1EB12A76035}|gigaMatthew\\gigaMatthew.csproj|solutionrelative:gigamatthew\\adapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91DBB4C4-7E33-405D-ACB5-C989E8554666}|..\\Matthew\\Matthew.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\matthewgochi\\matthew\\playcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91DBB4C4-7E33-405D-ACB5-C989E8554666}|..\\Matthew\\Matthew.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\matthewgochi\\matthew\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{339F43E0-F6AF-4F4B-A878-29A948937CB9}|MatthewV2\\MatthewV2.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\matthewgochi\\matthewgo\\matthewv2\\turnevil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{339F43E0-F6AF-4F4B-A878-29A948937CB9}|MatthewV2\\MatthewV2.csproj|solutionrelative:matthewv2\\turnevil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{339F43E0-F6AF-4F4B-A878-29A948937CB9}|MatthewV2\\MatthewV2.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\matthewgochi\\matthewgo\\matthewv2\\matthew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339F43E0-F6AF-4F4B-A878-29A948937CB9}|MatthewV2\\MatthewV2.csproj|solutionrelative:matthewv2\\matthew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{339F43E0-F6AF-4F4B-A878-29A948937CB9}|MatthewV2\\MatthewV2.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\matthewgochi\\matthewgo\\matthewv2\\ianeuroanswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{339F43E0-F6AF-4F4B-A878-29A948937CB9}|MatthewV2\\MatthewV2.csproj|solutionrelative:matthewv2\\ianeuroanswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E3ED244-DD1E-4030-AEF7-BA77800E1572}|WpfProject\\WpfProject.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\matthewgochi\\matthewgo\\wpfproject\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E3ED244-DD1E-4030-AEF7-BA77800E1572}|WpfProject\\WpfProject.csproj|solutionrelative:wpfproject\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{339F43E0-F6AF-4F4B-A878-29A948937CB9}|MatthewV2\\MatthewV2.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\matthewgochi\\matthewgo\\matthewv2\\kindmatthew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339F43E0-F6AF-4F4B-A878-29A948937CB9}|MatthewV2\\MatthewV2.csproj|solutionrelative:matthewv2\\kindmatthew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339F43E0-F6AF-4F4B-A878-29A948937CB9}|MatthewV2\\MatthewV2.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\matthewgochi\\matthewgo\\matthewv2\\evilmatthew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339F43E0-F6AF-4F4B-A878-29A948937CB9}|MatthewV2\\MatthewV2.csproj|solutionrelative:matthewv2\\evilmatthew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{339F43E0-F6AF-4F4B-A878-29A948937CB9}|MatthewV2\\MatthewV2.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\matthewgochi\\matthewgo\\matthewv2\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{339F43E0-F6AF-4F4B-A878-29A948937CB9}|MatthewV2\\MatthewV2.csproj|solutionrelative:matthewv2\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339F43E0-F6AF-4F4B-A878-29A948937CB9}|MatthewV2\\MatthewV2.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\matthewgochi\\matthewgo\\matthewv2\\turnevil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339F43E0-F6AF-4F4B-A878-29A948937CB9}|MatthewV2\\MatthewV2.csproj|solutionrelative:matthewv2\\turnevil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339F43E0-F6AF-4F4B-A878-29A948937CB9}|MatthewV2\\MatthewV2.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\matthewgochi\\matthewgo\\matthewv2\\invoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339F43E0-F6AF-4F4B-A878-29A948937CB9}|MatthewV2\\MatthewV2.csproj|solutionrelative:matthewv2\\invoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3ED244-DD1E-4030-AEF7-BA77800E1572}|WpfProject\\WpfProject.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\matthewgochi\\matthewgo\\wpfproject\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3ED244-DD1E-4030-AEF7-BA77800E1572}|WpfProject\\WpfProject.csproj|solutionrelative:wpfproject\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67809675-BBDF-4772-9A38-D1EB12A76035}|gigaMatthew\\gigaMatthew.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\matthewgochi\\matthewgo\\gigamatthew\\adapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67809675-BBDF-4772-9A38-D1EB12A76035}|gigaMatthew\\gigaMatthew.csproj|solutionrelative:gigamatthew\\adapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E3ED244-DD1E-4030-AEF7-BA77800E1572}|WpfProject\\WpfProject.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\matthewgochi\\matthewgo\\wpfproject\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,28 +47,8 @@
       "RelativeMoniker": "D:0:0:{339F43E0-F6AF-4F4B-A878-29A948937CB9}|MatthewV2\\MatthewV2.csproj|solutionrelative:matthewv2\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{339F43E0-F6AF-4F4B-A878-29A948937CB9}|MatthewV2\\MatthewV2.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\matthewgochi\\matthewgo\\matthewv2\\matthew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{339F43E0-F6AF-4F4B-A878-29A948937CB9}|MatthewV2\\MatthewV2.csproj|solutionrelative:matthewv2\\matthew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{339F43E0-F6AF-4F4B-A878-29A948937CB9}|MatthewV2\\MatthewV2.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\matthewgochi\\matthewgo\\matthewv2\\invoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{339F43E0-F6AF-4F4B-A878-29A948937CB9}|MatthewV2\\MatthewV2.csproj|solutionrelative:matthewv2\\invoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{339F43E0-F6AF-4F4B-A878-29A948937CB9}|MatthewV2\\MatthewV2.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\matthewgochi\\matthewgo\\matthewv2\\turnkind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{339F43E0-F6AF-4F4B-A878-29A948937CB9}|MatthewV2\\MatthewV2.csproj|solutionrelative:matthewv2\\turnkind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91DBB4C4-7E33-405D-ACB5-C989E8554666}|..\\Matthew\\Matthew.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\matthewgochi\\matthew\\feedcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91DBB4C4-7E33-405D-ACB5-C989E8554666}|..\\Matthew\\Matthew.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\matthewgochi\\matthew\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91DBB4C4-7E33-405D-ACB5-C989E8554666}|..\\Matthew\\Matthew.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\matthewgochi\\matthew\\matthew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91DBB4C4-7E33-405D-ACB5-C989E8554666}|..\\Matthew\\Matthew.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\matthewgochi\\matthew\\invoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E3ED244-DD1E-4030-AEF7-BA77800E1572}|WpfProject\\WpfProject.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\matthewgochi\\matthewgo\\wpfproject\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -79,9 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3E3ED244-DD1E-4030-AEF7-BA77800E1572}|WpfProject\\WpfProject.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\matthewgochi\\matthewgo\\wpfproject\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{3E3ED244-DD1E-4030-AEF7-BA77800E1572}|WpfProject\\WpfProject.csproj|solutionrelative:wpfproject\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91DBB4C4-7E33-405D-ACB5-C989E8554666}|..\\Matthew\\Matthew.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\matthewgochi\\matthew\\matthewhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -91,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -123,85 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TurnEvil.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\Matthewgochi\\MatthewGo\\MatthewV2\\TurnEvil.cs",
-              "RelativeDocumentMoniker": "MatthewV2\\TurnEvil.cs",
-              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\Matthewgochi\\MatthewGo\\MatthewV2\\TurnEvil.cs",
-              "RelativeToolTip": "MatthewV2\\TurnEvil.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T19:14:27.353Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IANeuroAnswer.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\Matthewgochi\\MatthewGo\\MatthewV2\\IANeuroAnswer.cs",
-              "RelativeDocumentMoniker": "MatthewV2\\IANeuroAnswer.cs",
-              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\Matthewgochi\\MatthewGo\\MatthewV2\\IANeuroAnswer.cs",
-              "RelativeToolTip": "MatthewV2\\IANeuroAnswer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T19:13:09.324Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "KindMatthew.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\Matthewgochi\\MatthewGo\\MatthewV2\\KindMatthew.cs",
-              "RelativeDocumentMoniker": "MatthewV2\\KindMatthew.cs",
-              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\Matthewgochi\\MatthewGo\\MatthewV2\\KindMatthew.cs",
-              "RelativeToolTip": "MatthewV2\\KindMatthew.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T19:13:54.967Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\Matthewgochi\\Matthew\\Client.cs",
-              "RelativeDocumentMoniker": "..\\Matthew\\Client.cs",
-              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\Matthewgochi\\Matthew\\Client.cs",
-              "RelativeToolTip": "..\\Matthew\\Client.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAsAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T21:03:32.096Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "PlayCommand.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\Matthewgochi\\Matthew\\PlayCommand.cs",
-              "RelativeDocumentMoniker": "..\\Matthew\\PlayCommand.cs",
-              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\Matthewgochi\\Matthew\\PlayCommand.cs",
-              "RelativeToolTip": "..\\Matthew\\PlayCommand.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAswAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T20:56:10.982Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Adapter.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\Matthewgochi\\MatthewGo\\gigaMatthew\\Adapter.cs",
-              "RelativeDocumentMoniker": "gigaMatthew\\Adapter.cs",
-              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\Matthewgochi\\MatthewGo\\gigaMatthew\\Adapter.cs",
-              "RelativeToolTip": "gigaMatthew\\Adapter.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAwA0AAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T20:54:31.605Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "EvilMatthew.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\Matthewgochi\\MatthewGo\\MatthewV2\\EvilMatthew.cs",
               "RelativeDocumentMoniker": "MatthewV2\\EvilMatthew.cs",
@@ -209,8 +110,7 @@
               "RelativeToolTip": "MatthewV2\\EvilMatthew.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABRAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T19:13:58.518Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T19:13:58.518Z"
             },
             {
               "$type": "Document",
@@ -220,23 +120,70 @@
               "RelativeDocumentMoniker": "WpfProject\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\Matthewgochi\\MatthewGo\\WpfProject\\MainWindow.xaml.cs",
               "RelativeToolTip": "WpfProject\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAwwDoAAAA+AAAA",
+              "ViewState": "AQIAAC8AAAAAAAAAAAA3wEUAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T20:55:25.912Z",
+              "WhenOpened": "2024-04-11T20:55:25.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Invoker.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\Matthewgochi\\MatthewGo\\MatthewV2\\Invoker.cs",
+              "RelativeDocumentMoniker": "MatthewV2\\Invoker.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\Matthewgochi\\MatthewGo\\MatthewV2\\Invoker.cs",
+              "RelativeToolTip": "MatthewV2\\Invoker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T19:14:49.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Matthew.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\Matthewgochi\\MatthewGo\\MatthewV2\\Matthew.cs",
+              "RelativeDocumentMoniker": "MatthewV2\\Matthew.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\Matthewgochi\\MatthewGo\\MatthewV2\\Matthew.cs",
+              "RelativeToolTip": "MatthewV2\\Matthew.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAxwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T19:14:05.834Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
+              "Title": "TurnEvil.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\Matthewgochi\\MatthewGo\\MatthewV2\\TurnEvil.cs",
+              "RelativeDocumentMoniker": "MatthewV2\\TurnEvil.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\Matthewgochi\\MatthewGo\\MatthewV2\\TurnEvil.cs",
+              "RelativeToolTip": "MatthewV2\\TurnEvil.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T19:14:27.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Client.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\Matthewgochi\\MatthewGo\\MatthewV2\\Client.cs",
               "RelativeDocumentMoniker": "MatthewV2\\Client.cs",
               "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\Matthewgochi\\MatthewGo\\MatthewV2\\Client.cs",
               "RelativeToolTip": "MatthewV2\\Client.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA0AAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T07:16:16.193Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-13T07:16:16.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IANeuroAnswer.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\Matthewgochi\\MatthewGo\\MatthewV2\\IANeuroAnswer.cs",
+              "RelativeDocumentMoniker": "MatthewV2\\IANeuroAnswer.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\Matthewgochi\\MatthewGo\\MatthewV2\\IANeuroAnswer.cs",
+              "RelativeToolTip": "MatthewV2\\IANeuroAnswer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T19:13:09.324Z"
             },
             {
               "$type": "Document",
@@ -248,8 +195,31 @@
               "RelativeToolTip": "WpfProject\\AssemblyInfo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T21:17:39.136Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-11T21:17:39.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KindMatthew.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\Matthewgochi\\MatthewGo\\MatthewV2\\KindMatthew.cs",
+              "RelativeDocumentMoniker": "MatthewV2\\KindMatthew.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\Matthewgochi\\MatthewGo\\MatthewV2\\KindMatthew.cs",
+              "RelativeToolTip": "MatthewV2\\KindMatthew.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T19:13:54.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Adapter.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\Matthewgochi\\MatthewGo\\gigaMatthew\\Adapter.cs",
+              "RelativeDocumentMoniker": "gigaMatthew\\Adapter.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\Matthewgochi\\MatthewGo\\gigaMatthew\\Adapter.cs",
+              "RelativeToolTip": "gigaMatthew\\Adapter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T20:54:31.605Z"
             },
             {
               "$type": "Document",
@@ -261,38 +231,11 @@
               "RelativeToolTip": "MatthewV2\\Command.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T19:14:16.302Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T19:14:16.302Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Matthew.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\Matthewgochi\\MatthewGo\\MatthewV2\\Matthew.cs",
-              "RelativeDocumentMoniker": "MatthewV2\\Matthew.cs",
-              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\Matthewgochi\\MatthewGo\\MatthewV2\\Matthew.cs",
-              "RelativeToolTip": "MatthewV2\\Matthew.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T19:14:05.834Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Invoker.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\Matthewgochi\\MatthewGo\\MatthewV2\\Invoker.cs",
-              "RelativeDocumentMoniker": "MatthewV2\\Invoker.cs",
-              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\Matthewgochi\\MatthewGo\\MatthewV2\\Invoker.cs",
-              "RelativeToolTip": "MatthewV2\\Invoker.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T19:14:49.075Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "TurnKind.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\Matthewgochi\\MatthewGo\\MatthewV2\\TurnKind.cs",
               "RelativeDocumentMoniker": "MatthewV2\\TurnKind.cs",
@@ -300,60 +243,11 @@
               "RelativeToolTip": "MatthewV2\\TurnKind.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T19:14:22.783Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T19:14:22.783Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Matthew.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\Matthewgochi\\Matthew\\Matthew.cs",
-              "RelativeDocumentMoniker": "..\\Matthew\\Matthew.cs",
-              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\Matthewgochi\\Matthew\\Matthew.cs",
-              "RelativeToolTip": "..\\Matthew\\Matthew.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T07:31:48.672Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Command.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\Matthewgochi\\Matthew\\Command.cs",
-              "RelativeDocumentMoniker": "..\\Matthew\\Command.cs",
-              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\Matthewgochi\\Matthew\\Command.cs",
-              "RelativeToolTip": "..\\Matthew\\Command.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T21:12:47.895Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Invoker.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\Matthewgochi\\Matthew\\Invoker.cs",
-              "RelativeDocumentMoniker": "..\\Matthew\\Invoker.cs",
-              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\Matthewgochi\\Matthew\\Invoker.cs",
-              "RelativeToolTip": "..\\Matthew\\Invoker.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T21:14:57.822Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "FeedCommand.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\Matthewgochi\\Matthew\\FeedCommand.cs",
-              "RelativeDocumentMoniker": "..\\Matthew\\FeedCommand.cs",
-              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\Matthewgochi\\Matthew\\FeedCommand.cs",
-              "RelativeToolTip": "..\\Matthew\\FeedCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T21:13:52.705Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 12,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\Matthewgochi\\MatthewGo\\WpfProject\\MainWindow.xaml",
               "RelativeDocumentMoniker": "WpfProject\\MainWindow.xaml",
@@ -364,7 +258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\Matthewgochi\\MatthewGo\\Test\\Program.cs",
               "RelativeDocumentMoniker": "Test\\Program.cs",
@@ -376,7 +270,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 14,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\Matthewgochi\\MatthewGo\\WpfProject\\App.xaml",
               "RelativeDocumentMoniker": "WpfProject\\App.xaml",
@@ -384,18 +278,6 @@
               "RelativeToolTip": "WpfProject\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-04-11T20:55:14.42Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "MatthewHistory.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\Matthewgochi\\Matthew\\MatthewHistory.cs",
-              "RelativeDocumentMoniker": "..\\Matthew\\MatthewHistory.cs",
-              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\Matthewgochi\\Matthew\\MatthewHistory.cs",
-              "RelativeToolTip": "..\\Matthew\\MatthewHistory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T20:54:29.781Z"
             }
           ]
         }
